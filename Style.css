@@ -1,0 +1,96 @@
+
+body {
+    background: white;
+    margin:0;
+    padding:0;
+    -webkit-background-siez:cover;
+    background-size: cover;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    form {
+  background-color: rgba(0, 0, 0, 0.5);
+    padding: 40px;
+    top: 15%;
+    left: 45%;
+    padding: 40px;
+    border-radius: 15px; 
+    width: 250px;
+    height: 590px;
+    border: 1px solid  #fff;
+   
+    margin-left: 35%;
+    }
+    h2{
+        text-align: center;
+        margin: 0;
+        padding: 0 0 30px;
+        font-weight: bold;
+        color: white;
+        
+    }
+    form p{
+        margin: 0;
+        padding: 0;
+        color: black;
+        font-weight: bold;
+    }
+    
+    form input, select {
+        margin-bottom: 20px;
+        width: 85%;
+        padding: 10px;
+        border-radius: 1em;
+    
+    }
+    form input[type="submit"]{
+        margin-bottom: 20px;
+        width: 50%;
+        padding: 10px;
+        border-radius: 2em;
+        font-size: 15px;
+        border: none;
+        height: 40px;
+        background-color: darkgrey;
+        outline: none;
+    }
+    form:hover{
+        background-color: rgba(100, 0, 0, 0.5);
+    }
+    
+    body{
+        /* height: 100px; */
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    table td{
+        
+        padding: 0.75em;
+        border-top: 1px solid;
+    }
+    
+h1{
+    text-align: center;
+    margin: 0;
+    padding: 0 0 30px;
+    font-weight: bold;
+    color: black;
+
+}
+
+table {
+
+  margin-left:12%; 
+color: white;
+background-color: #343a40;
+
+}
+.champs{
+    background-color:rgb(19, 154, 207);
+    text-align: center;
+}
+
+.effet:hover{
+    background: rgb(154, 211, 184);
+}
+   
